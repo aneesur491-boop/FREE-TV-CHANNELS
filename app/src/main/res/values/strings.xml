@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FreeTV Player</string>
+    <string name="search_channels">Search channels…</string>
+    <string name="back">Back</string>
+    <string name="fullscreen">Fullscreen</string>
+    <string name="buffering">Buffering…</string>
+    <string name="stream_ended">Stream ended</string>
+    <string name="error_network">Network connection failed</string>
+    <string name="error_stream_unavailable">Stream unavailable (HTTP error)</string>
+    <string name="error_decoder">Decoder initialization failed</string>
+    <string name="error_playback">Playback error: %1$s</string>
+    <string name="channels">Channels</string>
+    <string name="favorites">Favorites</string>
+    <string name="recently_watched">Recent</string>
+    <string name="no_favorites">No favorite channels yet.\nTap ♥ on any channel to add it here.</string>
+    <string name="no_recent">No recently watched channels.</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="refresh">Refresh</string>
+    <string name="added_to_favorites">Added to favorites</string>
+    <string name="removed_from_favorites">Removed from favorites</string>
+    <string name="loading_channels">Loading channels…</string>
+    <string name="retry">Retry</string>
+
+    <string-array name="countries_sample">
+        <item>All Countries</item>
+        <item>United States</item>
+        <item>United Kingdom</item>
+        <item>India</item>
+    </string-array>
+</resources>

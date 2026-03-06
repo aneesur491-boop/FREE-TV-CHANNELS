@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand -->
+    <color name="primary">#1565C0</color>
+    <color name="primary_dark">#0D47A1</color>
+    <color name="primary_variant">#1976D2</color>
+    <color name="secondary">#00BCD4</color>
+    <color name="secondary_variant">#0097A7</color>
+    <color name="accent">#FF6F00</color>
+
+    <!-- Backgrounds -->
+    <color name="background_light">#F5F7FA</color>
+    <color name="background_dark">#121212</color>
+    <color name="surface_light">#FFFFFF</color>
+    <color name="surface_dark">#1E1E1E</color>
+
+    <!-- Text -->
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="text_primary_light">#1A1A2E</color>
+    <color name="text_secondary_light">#6B7280</color>
+    <color name="text_primary_dark">#EFEFEF</color>
+    <color name="text_secondary_dark">#9CA3AF</color>
+
+    <!-- Category badge colors -->
+    <color name="category_news">#D32F2F</color>
+    <color name="category_sports">#1565C0</color>
+    <color name="category_movies">#6A1B9A</color>
+    <color name="category_kids">#F57F17</color>
+    <color name="category_music">#00695C</color>
+    <color name="category_documentary">#37474F</color>
+    <color name="category_general">#424242</color>
+    <color name="category_entertainment">#880E4F</color>
+
+    <!-- Misc -->
+    <color name="pink_500">#E91E63</color>
+    <color name="live_red">#FF1744</color>
+    <color name="error_color">#CF6679</color>
+    <color name="ripple_color">#20000000</color>
+
+    <!-- Seed colors for Material You -->
+    <color name="md_theme_light_primary">#1565C0</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#D3E4FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001B3F</color>
+    <color name="md_theme_light_secondary">#555F71</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D9E3F8</color>
+    <color name="md_theme_light_onSecondaryContainer">#121C2B</color>
+    <color name="md_theme_light_background">#FDFBFF</color>
+    <color name="md_theme_light_onBackground">#1A1C1E</color>
+    <color name="md_theme_light_surface">#FDFBFF</color>
+    <color name="md_theme_light_onSurface">#1A1C1E</color>
+    <color name="md_theme_light_surfaceVariant">#DFE2EB</color>
+    <color name="md_theme_light_onSurfaceVariant">#43474E</color>
+    <color name="md_theme_light_outline">#73777F</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+
+    <color name="md_theme_dark_primary">#A3C8FF</color>
+    <color name="md_theme_dark_onPrimary">#003063</color>
+    <color name="md_theme_dark_primaryContainer">#00458D</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D3E4FF</color>
+    <color name="md_theme_dark_secondary">#BDC7DC</color>
+    <color name="md_theme_dark_onSecondary">#273141</color>
+    <color name="md_theme_dark_secondaryContainer">#3D4758</color>
+    <color name="md_theme_dark_onSecondaryContainer">#D9E3F8</color>
+    <color name="md_theme_dark_background">#1A1C1E</color>
+    <color name="md_theme_dark_onBackground">#E2E2E6</color>
+    <color name="md_theme_dark_surface">#1A1C1E</color>
+    <color name="md_theme_dark_onSurface">#E2E2E6</color>
+    <color name="md_theme_dark_surfaceVariant">#43474E</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C3C7CF</color>
+    <color name="md_theme_dark_outline">#8D9199</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+</resources>
